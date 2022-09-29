@@ -1,0 +1,120 @@
+.styimg{
+    width: 50px;
+    margin: 50px;
+    font-size: 20px;
+    color: rgb(236, 81, 81) ;
+    margin-top: 15px;
+    display: inline-block;
+}
+.styname{
+    width: 50px;
+    margin: 20px;
+    margin-right: 70px;
+    font-size: 20px;
+    color: rgb(236, 81, 81);
+    margin-top: 15px;
+    display: inline-block;
+}
+.stydetail{
+ width: 150px;
+    margin: 20px;
+    margin-right: 60px;
+    margin-left: 120px;
+    font-size: 20px;
+    color: rgb(236, 81, 81);
+    margin-top: 15px;
+    display: inline-block;
+}
+.styprice{
+    width: 20px;
+    margin: 20px;
+    margin-right: 60px;
+    font-size: 20px;
+    color: rgb(236, 81, 81) ;
+    margin-top: 15px;
+    display: inline-block;
+}
+.styqunantity{
+    width: 50px;
+    margin: 20px;
+    margin-right: 60px;
+    margin-left: 60px;
+
+    font-size: 20px;
+    color: rgb(236, 81, 81) ;
+    margin-top: 15px;
+    display: inline-block;
+}
+.stytotal{
+    width: 30px;
+    margin: 20px;
+    margin-right: 60px;
+    font-size: 20px;
+    color: rgb(236, 81, 81) ;
+    margin-top: 15px;
+    display: inline-block;
+}
+.stydelete{
+    width: 30px;
+    margin: 20px;
+    margin-right: 60px;
+    font-size: 20px;
+    color: rgb(236, 81, 81) ;
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.removebtn{
+    
+    width: 100px;
+    
+    
+    margin-left: 20px;
+    cursor: pointer;
+    
+    display: inline;
+    margin-left: 50px;
+    
+}
+.removebtn1{
+    background-color:rgb(223, 153, 164) ;
+    border-radius: 10px;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+.removebtn1:hover{
+    background-color: brown;
+    width: 110px;
+    
+}
+.item-image,.item-name,.total-price,.item-price,.item-detail,.item-quantity{
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(68, 30, 30);
+    display: inline-block;
+    text-align: center;
+
+} 
+.item-name{
+    width: 50px;
+}
+.item-detail{
+    width: 280px;
+    display: inline-block;
+    margin-left: 70px;
+
+}
+.item-price{
+    width: 100px;
+    margin-left: 40px;
+}
+.item-quantity{
+    margin-left: 80px;
+
+}
+.total-price{
+    width: 50px;
+    margin-left: 80px;
+}
